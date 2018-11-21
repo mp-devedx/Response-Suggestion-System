@@ -1,0 +1,2 @@
+model_checkpoint_path: "/notebooks/NLP/ContextualChatbot/exports/model.tflearn"
+all_model_checkpoint_paths: "/notebooks/NLP/ContextualChatbot/exports/model.tflearn"
